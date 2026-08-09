@@ -37,4 +37,5 @@ while honor < 0:
         if honor < 0:
             print("Honor level cannot be less than zero.")
     except ValueError:
-        print("Please enter a valid honor level")                        
+        print("Please enter a valid honor level")
+print(f"Your honor level is: {honor}")
