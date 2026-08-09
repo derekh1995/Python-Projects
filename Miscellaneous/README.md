@@ -1,1 +1,1 @@
-This directory is for random small projects and practice.
+This directory is for random small projects, practice, and notes.
