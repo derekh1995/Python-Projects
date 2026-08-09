@@ -1,6 +1,7 @@
 # Logical Operators
+# and, or, not
 
-# Part 1: or
+#####
 
 # temp = 25
 # is_raining = False
@@ -10,7 +11,7 @@
 # else:
 #     print("The outdoor event is still scheduled.")
 
-# Part 2: and
+#####
 
 temp = 25
 is_sunny = True
