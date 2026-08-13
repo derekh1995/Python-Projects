@@ -34,3 +34,28 @@ elif choice.lower() == "tails":
         pass
 else:
     pass
+
+######################################################################### More random module practice
+
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+
+import random
+
+ran = random.randint(0, 4)
+if ran == 0:
+    print("Alice")
+elif ran == 1:
+    print("Bob")
+elif ran == 2:
+    print("Charlie")
+elif ran == 3:
+    print("David")
+elif ran == 4:
+    print("Emanuel")
+else:
+    pass
+
+# or do either of these:
+
+# print(random.choice(friends))
+# print(friends[ran])
